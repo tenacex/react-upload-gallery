@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-sortable-hoc": "1.11.0"
+    "sass": "^1.72.0"
   },
   "peerDependencies": {
     "react": "^16.8.6",
@@ -41,10 +41,9 @@
     "@babel/preset-react": "^7.16.0",
     "babel-loader": "^8.2.3",
     "css-loader": "^2.1.1",
-    "node-sass": "^4.11.0",
     "onchange": "^6.0.0",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.0.2",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.1",
     "webpack": "^4.29.6",
